@@ -4,7 +4,7 @@ En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbit
 ### Trabajos Finales de Carrera
 🕹️ Taller de Proyecto 1: [EDU CIAA Arcade Stick](https://github.com/sergiocld99/EDU-CIAA-Arcade-Stick), firmware y driver GamePad en `C` para LPC4337, compatibilidad Windows y Linux.
 
-💵 Taller de Proyecto 2: [ATM Raspberry Pi - Tablero Web](https://github.com/tpII/2023-G3-ATM-RPIWeb), fullstack `MongoDB`-`Express`-`React`-`Node.js`, firmware en `Python`. Luego también realicé una adaptación simplificada del mismo utilizando Embedded Java-Script (EJS) y Docker para facilitar el proceso de instalación: [ATM Docker](https://github.com/sergiocld99/ATM-Docker).
+💵 Taller de Proyecto 2: [ATM Raspberry Pi - Tablero Web](https://github.com/tpII/2023-G3-ATM-RPIWeb), fullstack `MongoDB`-`Express`-`React`-`Node.js`, firmware en `Python`. Luego también realicé una versión simple con EJS y Docker para facilitar el proceso de instalación: [ATM Docker](https://github.com/sergiocld99/ATM-Docker).
 
 ### Trabajos de investigación (III-LIDI)
 🧬 Beca CIC: [Aceleración de Multiomix](https://github.com/sergiocld99/ggca), paralelización y optimización en `Rust`
