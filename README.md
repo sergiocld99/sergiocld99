@@ -1,5 +1,5 @@
 ## Hi there 👋
-En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbito académico como también otros desarrollos de auto-aprendizaje. También existen 2 repositorios donde almaceno ejercicios e informes de Ingeniería en Computación (plan 2011).
+En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbito académico como también otros desarrollos de auto-aprendizaje. A su vez, existen 2 repositorios donde almaceno ejercicios e informes de Ingeniería en Computación (plan 2011).
 
 ### Trabajos Finales de Carrera
 🕹️ Taller de Proyecto 1: [EDU CIAA Arcade Stick](https://github.com/sergiocld99/EDU-CIAA-Arcade-Stick), firmware y driver GamePad en `C` para LPC4337, compatibilidad Windows y Linux.
