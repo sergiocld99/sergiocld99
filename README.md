@@ -7,7 +7,7 @@ En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbit
 💵 Taller de Proyecto 2: [ATM Raspberry Pi - Tablero Web](https://github.com/tpII/2023-G3-ATM-RPIWeb), fullstack `MongoDB`-`Express`-`React`-`Node.js`, firmware en `Python`. Luego también realicé una versión simple con EJS y Docker para facilitar el proceso de instalación: [ATM Docker](https://github.com/sergiocld99/ATM-Docker).
 
 ### Trabajos de investigación (III-LIDI)
-🧬 Beca CIC: [Aceleración de Multiomix](https://github.com/sergiocld99/ggca), paralelización y optimización en `Rust`
+🧬 Beca CIC: [Aceleración de Multiomix](https://github.com/sergiocld99/ggca-opts), paralelización y optimización en `Rust`
 
 📑 PPS - CACIC 2023: [Optimización Floyd-Warshall](https://github.com/sergiocld99/CACIC-FloydWarshall), semáforos y variables condición en C.
 
