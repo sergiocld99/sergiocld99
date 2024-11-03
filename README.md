@@ -1,5 +1,5 @@
 ## Hi there 👋
-En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbito académico como también otros desarrollos de auto-aprendizaje. Actualmente soy Software Developer en Mercado Libre, modificando frontends en React (TypeScript - SASS), implementando tests unitarios en Jest y deployando releases vía Fury, que integra Jenkins.
+En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbito académico como también otros desarrollos de auto-aprendizaje. Actualmente soy Software Developer en Mercado Libre, modificando frontends y libs en React (TypeScript - SASS - Storybook), implementando tests unitarios en Jest y deployando releases vía Fury, que integra Jenkins.
 
 ### Trabajos Finales de Carrera
 🕹️ Taller de Proyecto 1: [EDU CIAA Arcade Stick](https://github.com/sergiocld99/EDU-CIAA-Arcade-Stick), firmware y driver GamePad en `C` para LPC4337, compatibilidad Windows y Linux.
@@ -23,4 +23,3 @@ En mi GitHub podés encontrar diferentes proyectos que he realizado en el ámbit
 
 🟦 En TypeScript: [World Hardest Game](https://github.com/sergiocld99/WorldHardestGame) y [Pacman](https://github.com/sergiocld99/Pacman-TS)
 
-- Videos relacionados: https://www.tiktok.com/@ingdevs
